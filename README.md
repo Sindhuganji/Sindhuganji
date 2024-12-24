@@ -1,7 +1,10 @@
 👋 Hi, I’m @Sindhuganji
+
 👀 I’m interested in Tech Enthusiast
+
 🌱 I’m currently learning 
 Python and C Language
+
 💞️ I’m looking to collaborate on Open Source Projects 
 
 <!---
